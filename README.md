@@ -3,7 +3,8 @@
 
 **Kelas:** T1-B  
 **Kelompok:** 7
-**Link Dokumen laporan:** https://docs.google.com/document/d/1Y8uGfvPXLRUCe6LoAZKEaIBXazzsng2V/edit?usp=sharing&ouid=109904598783711126942&rtpof=true&sd=true 
+
+**Link Dokumen laporan:** https://docs.google.com/document/d/1Y8uGfvPXLRUCe6LoAZKEaIBXazzsng2V/edit?usp=sharing&ouid=109904598783711126942&rtpof=true&sd=true  
 
 ### Progress 1 — Senin, 23 November 2026
 
