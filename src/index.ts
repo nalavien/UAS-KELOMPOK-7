@@ -1,3 +1,5 @@
 console.log("semoga bisa");
 console.log("bisa kif");
-consple.log("tes")
+console.log("tes");
+console.log("Aku faiz");
+
