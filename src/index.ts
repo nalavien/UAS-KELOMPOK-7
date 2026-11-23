@@ -9,3 +9,4 @@ console.log("yey gokil")
 console.log("jangan lupa");
 console.log("hi");
 console.log("hi lagi");
+console.log("gua nambah fitur");
