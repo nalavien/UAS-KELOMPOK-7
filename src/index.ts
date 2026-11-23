@@ -5,3 +5,4 @@ console.log("Aku faiz");
 console.log("pe tes lagi");
 console.log("coba lagi");
 console.log("lagi lagi lagi");
+console.log("yey gokil")
