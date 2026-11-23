@@ -7,3 +7,4 @@ console.log("coba lagi");
 console.log("lagi lagi lagi");
 console.log("yey gokil")
 console.log("jangan lupa");
+console.log("hi");
