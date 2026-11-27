@@ -8,12 +8,10 @@ let berjalan: boolean = true;
 const jumlahMenu: number = 6;
 // Fungsi untuk menampilkan menu utama
 function tampilkanMenu(): void {
-
     // Menampilkan judul aplikasi
     console.log("\n======================================");
     console.log("       APLIKASI KASIR AYAM GOSIP");
     console.log("======================================");
-
     // Menampilkan pilihan fitur aplikasi
     console.log("1. Tambah Pesanan");
     console.log("2. Lihat Pesanan");
@@ -21,11 +19,9 @@ function tampilkanMenu(): void {
     console.log("4. Hapus Pesanan");
     console.log("5. Cari Pesanan");
     console.log("6. Keluar");
-
     // Menampilkan garis penutup menu
     console.log("======================================");
 }
-
 // Fungsi untuk memvalidasi pilihan menu
 function validasiPilihan(pilihan: number): boolean {
     // Memeriksa apakah pilihan berada dalam rentang menu
@@ -39,7 +35,6 @@ function validasiPilihan(pilihan: number): boolean {
         return false;
     }
 }
-
 // Fungsi untuk menjalankan menu berdasarkan pilihan
 function prosesMenu(pilihan: number): void {
     // Menentukan fitur yang dijalankan berdasarkan pilihan
@@ -84,7 +79,6 @@ function prosesMenu(pilihan: number): void {
 }
 
 // PROGRAM UTAMA
-
 // Perulangan menu selama program masih berjalan
 while (berjalan) {
     // Menampilkan menu utama
